@@ -1,0 +1,41 @@
+#ad{
+    color: white;
+    text-align: center;
+    text-shadow:
+    0 0 10px cyan,
+    0 0 10px cyan,
+    0 0 10px cyan,
+    0 0 10px cyan,
+    0 0 10px cyan;
+}
+
+.gg{
+    display: flex;
+    gap: 10px;
+    
+
+}
+
+.ff{
+    height: 100vh;
+    width: 100vw;
+    
+    align-items: center;
+    justify-content: center;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+img:hover{
+    opacity: 90%;
+    cursor: pointer;
+
+}
+
+h4{
+    text-align: center;
+}
+
